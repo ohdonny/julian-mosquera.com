@@ -8,6 +8,6 @@
 	class="font-[Alegraya Sans] flex min-h-screen w-full flex-col
             items-center justify-center text-center font-mono tracking-wider text-gray-700 lowercase"
 >
-	<p>Born in New York — Based in Tokyo — Concrete Child</p>
+	<p>Born in New York — Based in Jersey — Concrete Child</p>
 	<enhanced:img src={nira} alt="Nira Dance" />
 </div>

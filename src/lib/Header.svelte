@@ -118,7 +118,7 @@
 	</div>
 
 	<div class="font-[Alegraya Sans] mt-auto mr-8 text-center font-light tracking-wider lowercase">
-		<p class="mb-3">©2025 julianmosquera</p>
+		<p class="mb-3">©2026 julianmosquera</p>
 		<div class="flex justify-center space-x-5">
 			<a href="https://www.instagram.com/miramiramemories/" class="transition hover:text-gray-800"
 				><Instagram class="h-6 w-5" /></a
