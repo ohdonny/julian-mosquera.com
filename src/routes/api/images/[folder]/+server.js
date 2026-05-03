@@ -1,6 +1,7 @@
 import cloudinary from '$lib/server/cloudinary';
 import { json } from '@sveltejs/kit';
 
+// @ts-ignore
 export async function GET({ params }) {
 	const folder = params.folder;
 
